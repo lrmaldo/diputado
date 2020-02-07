@@ -4,14 +4,6 @@
 
 html,body{
 background-image: url('img/portada.jpg');
-<<<<<<< HEAD
-background-size: cover;
-background-repeat: no-repeat;
-height: 100%;
-font-family: 'Numans', sans-serif;
-}
-
-=======
 background-repeat:no-repeat;
 -webkit-background-size:cover;
 -moz-background-size:cover;
@@ -28,14 +20,14 @@ align-content: center;
 }
 
 
->>>>>>> origin/master
+
 .container{
 height: 100%;
 align-content: center;
 }
 
 .card{
-<<<<<<< HEAD
+
 height: 370px;
 margin-top: auto;
 margin-bottom: auto;
@@ -43,28 +35,7 @@ width: 400px;
 background-color: rgba(0,0,0,0.5) !important;
 }
 
-=======
-height: auto;
-margin-top: auto;
-margin-bottom: auto;
 
-width: auto;
-background-color: rgba(0,0,0,0.5) !important;
-}
-
-
-/* Change styles for span and cancel button on extra small screens */
-@media screen and (max-width: 300px) {
-    .card{
-       display: block;
-       float: none;
-    }
-    .cancelbtn {
-       width: 100%;
-    }
-  }
-
->>>>>>> origin/master
 .social_icon span{
 font-size: 60px;
 margin-left: 10px;
